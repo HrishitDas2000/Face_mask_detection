@@ -16,4 +16,5 @@ Goals of this project:
 9. Show real time Video Stream
 10. Close Video Stream if ‘q’ is pressed
 
+# ALGORITHM
 ![image](https://user-images.githubusercontent.com/26469211/186269093-932fa227-8eed-4b9a-bc57-1f8fb3ddf0e0.png)

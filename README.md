@@ -18,3 +18,6 @@ Goals of this project:
 
 # ALGORITHM
 ![image](https://user-images.githubusercontent.com/26469211/186269093-932fa227-8eed-4b9a-bc57-1f8fb3ddf0e0.png)
+
+# RESULT
+![image](https://user-images.githubusercontent.com/26469211/186269554-bf880384-a82a-4b2a-9360-504dccd6d002.png)
